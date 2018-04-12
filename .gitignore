@@ -1,0 +1,9 @@
+/target/
+.settings/
+.classpath
+__MACOSX/
+.recommenders
+/Servers/*
+servers/
+bin/
+.metadata/
